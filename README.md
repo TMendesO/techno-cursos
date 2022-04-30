@@ -2,8 +2,10 @@
 
 ##PROJETO CRIADO NAS AULAS DE ROUTER DA ORIGAMID  🐺##
 
-para rodar esse projeto alem do basico, precisa instalar o json-server e rodar localmente,
+para rodar esse projeto alem do basico para instalar, precisa instalar o json-server e rodar localmente,
 porque estou simulando uma api com o json-server
+ou
+rode o json-server e use o link do surge que esta abaixo 
 
 https://techno-curso.surge.sh/
 
