@@ -5,6 +5,8 @@
 para rodar esse projeto alem do masico, precisa instalar o json-server e rodar localmente,
 porque estou simulando uma api com o json-server
 
+https://techno-curso.surge.sh/
+
 
 ## Project setup
 ```
