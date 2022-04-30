@@ -2,6 +2,9 @@
 
 ##PROJETO CRIADO NAS AULAS DE ROUTER DA ORIGAMID  🐺##
 
+para rodar esse projeto alem do masico, precisa instalar o json-server e rodar localmente,
+porque estou simulando uma api com o json-server
+
 
 ## Project setup
 ```
@@ -12,17 +15,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
